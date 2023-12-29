@@ -11,3 +11,5 @@ and slow it down as it comes out. Drop something on the floor, and it will first
 
 ## Usage
 In `main.py`, change the function call to any of the easing functions in `ease_functions.py`.
+
+![image](https://github.com/Nguyen-Noah/Ease-Function-Visualizer/assets/112649680/96afc077-c48b-431f-8344-542683e3640f)
